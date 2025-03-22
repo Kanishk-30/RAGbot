@@ -1,0 +1,2 @@
+ASTRA_DB_NAMESPACE="defalt_keyspace"
+ASTRA_DB_COLLECTION="f1gpt"
